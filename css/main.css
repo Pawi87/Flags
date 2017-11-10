@@ -1,0 +1,67 @@
+.white-text{
+    color:white;
+}
+
+.amarillo{
+    background-color: orange;
+    display: block; 
+    height: 90px;
+    margin: 5px;
+}
+.negro{
+    background-color: grey;
+    display: block;
+    height: 90px;
+    margin: 5px;
+}
+
+.amarillo-b{
+    background-color: orange;
+    display: block;
+    height: 90px;
+    margin: 5px;
+    width: 30%;
+}
+
+.negro-b{
+   background-color: grey;
+    display: block;
+    height: 90px;
+    margin: 5px; 
+        width: 30%;
+}
+
+.amarillo-c{
+    background-color: orange;
+    display: inline-block;
+    height: 90px;
+    margin: 5px;
+    width: 30%;
+}
+
+.negro-c{
+   background-color: grey;
+    display: inline-block;
+    height: 90px;
+    margin: 5px; 
+        width: 30%;
+}
+
+.amarillo-d{
+    background-color: orange;
+   display: inline
+   
+    
+   
+}
+
+.negro-d{
+   background-color: grey;
+   display: inline
+     
+        
+}
+
+.inline{
+    display: inline;
+}
